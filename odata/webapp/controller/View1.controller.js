@@ -88,7 +88,7 @@ sap.ui.define([
 
                 // PUT (update 요청)
                 oModel.update(sPath, oData, {success : function(){
-                    MessageToast.show("변경되었습니다.");
+                    MessageToast.show("변경 되었습니다.");
                 }});
             },
 
