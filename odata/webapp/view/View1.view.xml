@@ -28,7 +28,7 @@
         </headerToolbar>
         <columns>
             <Column>
-                <Text text="판매오더 번호" />
+                <Text text="판매오더번호" />
             </Column>
             <Column>
                 <Text text="메모" />
